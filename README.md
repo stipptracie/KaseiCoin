@@ -11,26 +11,26 @@ Remix was used to write, compile, and deploy this test project. (https://remix-p
 ## Evaluation Evidence
 
 ### 1. KaseiCoin Token Contract
-![KaseiCoinCompiled]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/Compiled_file.png" width="200" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/Compiled_file.png" width="500" />
 
 ---
 
 ### 2. KaseiCoin Crowdsale Contract
-![KaseiCoinCrowdsaleCompliled]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/compiled_crowdsale.png" width="200" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/compiled_crowdsale.png" width="500" />
 
 ---
 
 ### 3. Deploy the KaseiCoin Deployer, KaseiCoin Token contract, and KaseiCoin Crowdsale contract
-![KaseiCoinDeployer]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleDeployer.png" width="200" />
-![KaseiCoinToken]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/DeployKaseicoin.png" width="200" />
-![KaseiCoinCrowdsale]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleFileDeployed.png" width="200" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleDeployer.png" width="500" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/DeployKaseicoin.png" width="500" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleFileDeployed.png" width="500" />
 
 ---
 
 ### 4. Buy Tokens
-![BuyTokens]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/BuyTokens.png" width="200" />
-![ContractBalance]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/KaseiCoinBalance.png" width="200" />
-![WalletsAfter]<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/walletsAfter.png" width="200" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/BuyTokens.png" width="500" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/KaseiCoinBalance.png" width="500" />
+<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/walletsAfter.png" width="500" />
 
 ---
 
