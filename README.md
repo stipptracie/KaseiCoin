@@ -8,12 +8,12 @@ Remix was used to write, compile, and deploy this test project. (https://remix-p
 
 ## Evaluation Evidence
 1. KaseiCoin Token Contract
-![KaseiCoinCompiled](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/Compiled_file.png=100×20)
+![KaseiCoinCompiled](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/Compiled_file.png =100×20)
 2. KaseiCoin Crowdsale Contract
-![KaseiCoinCrowdsaleCompliled](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/compiled_crowdsale.png=100×20)
+![KaseiCoinCrowdsaleCompliled](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/compiled_crowdsale.png =100×20)
 3. Deploy the KaseiCoin Deployer, KaseiCoin Token contract, and KaseiCoin Crowdsale contract
-![KaseiCoinDeployer](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleDeployer.png=100×20)
-![KaseiCoinToken](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/DeployKaseicoin.png=100×20)
+![KaseiCoinDeployer](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleDeployer.png =100×20)
+![KaseiCoinToken](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/DeployKaseicoin.png =100×20)
 ![KaseiCoinCrowdsale]("")
 4. Buy Tokens
-![BuyTokens](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/BuyTokens.png=100×20)
+![BuyTokens](https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/BuyTokens.png =100×20)
