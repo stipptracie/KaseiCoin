@@ -20,9 +20,8 @@ Remix was used to write, compile, and deploy this test project. (https://remix-p
 
 ---
 
-### 3. Deploy the KaseiCoin Deployer, KaseiCoin Token contract, and KaseiCoin Crowdsale contract
+### 3. Deploy the KaseiCoin Deployer and KaseiCoin Crowdsale contract
 <img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleDeployer.png" width="500" />
-<img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/DeployKaseicoin.png" width="500" />
 <img src="https://github.com/stipptracie/KaseiCoin/blob/main/ExecutionResults/CrowdsaleFileDeployed.png" width="500" />
 
 ---
